@@ -1,0 +1,18 @@
+{
+  "name": "FixMate AI",
+  "short_name": "FixMate AI",
+  "description": "AI-Powered Local Services Marketplace. See the problem. Get an estimate. Find the right expert.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1120",
+  "theme_color": "#0284C7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

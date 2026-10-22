@@ -1,0 +1,11 @@
+{
+  "name": "FixMate AI",
+  "description": "AI-powered local services marketplace for instant repair photo diagnosis, preliminary cost estimations, and verified professional bookings.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
